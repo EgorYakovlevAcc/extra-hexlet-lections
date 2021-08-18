@@ -1,4 +1,4 @@
-package exercise.patterns.prototype;
+package demo.prototype;
 
 import lombok.Getter;
 import lombok.Setter;

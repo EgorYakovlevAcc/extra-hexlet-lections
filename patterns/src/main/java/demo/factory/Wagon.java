@@ -1,4 +1,4 @@
-package exercise.patterns.factory;
+package demo.factory;
 
 public class Wagon implements Transport {
     @Override

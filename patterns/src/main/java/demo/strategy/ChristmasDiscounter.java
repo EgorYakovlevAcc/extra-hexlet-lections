@@ -1,4 +1,4 @@
-package exercise.patterns.strategy;
+package demo.strategy;
 
 import java.util.Calendar;
 

@@ -1,4 +1,4 @@
-package exercise.patterns.factory;
+package demo.factory;
 
 import java.util.HashMap;
 import java.util.Map;

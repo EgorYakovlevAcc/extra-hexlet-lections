@@ -1,4 +1,4 @@
-package exercise.patterns.observer;
+package demo.observer;
 
 public class WeatherDataReceiver implements Observer<WeatherData> {
     private WeatherData weatherData;

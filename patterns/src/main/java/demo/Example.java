@@ -1,8 +1,8 @@
-package exercise.patterns;
+package demo;
 
-import exercise.patterns.observer.WeatherData;
-import exercise.patterns.observer.WeatherDataCenter;
-import exercise.patterns.observer.WeatherDataReceiver;
+import demo.observer.WeatherData;
+import demo.observer.WeatherDataCenter;
+import demo.observer.WeatherDataReceiver;
 
 public class Example {
     public static void main(String[] args) {

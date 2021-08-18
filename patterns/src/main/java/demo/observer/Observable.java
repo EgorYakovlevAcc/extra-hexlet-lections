@@ -1,4 +1,4 @@
-package exercise.patterns.observer;
+package demo.observer;
 
 public interface Observable<T> {
     void registerObserver(Observer<T> observer);
