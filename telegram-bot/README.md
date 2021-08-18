@@ -7,4 +7,4 @@
 
 1. Bots: An introduction for developers: https://core.telegram.org/bots
 2. Telegram Bot API: https://core.telegram.org/bots/api
-3. pengrad/java-telegram-bot-api: https://github.com/pengrad/java-telegram-bot-api
+3. rubenlagus/TelegramBots: https://github.com/rubenlagus/TelegramBots
